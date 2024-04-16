@@ -9,7 +9,7 @@ After installing Ubuntu in your VM, you should run the following commands in you
 3. apt install sudo
 4. usermod -aG sudo <user_name> #This will grant sudo previlege to the user... it's important because some file will be in read mode only
 5. then restart your VM to apply the changes
-Now comes the Mininet installation along with pox, openflow and other relevent folders
+<h1>Now comes the Mininet installation along with pox, openflow and other relevent folders</h1>
 1. sudo apt-get update
 2. sudo apt-get upgrade #this might takes some time to complete
 3. sudo apt-get install git
