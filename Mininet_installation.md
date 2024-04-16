@@ -11,7 +11,6 @@ After installing Ubuntu in your VM, you should run the following commands in you
 5. then restart your VM to apply the changes
 <br>
 Now comes the Mininet installation along with pox, openflow and other relevent folders
-<br>
 1. sudo apt-get update
 2. sudo apt-get upgrade #this might takes some time to complete
 3. sudo apt-get install git
